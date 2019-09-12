@@ -23,7 +23,7 @@ namespace PlayFabXboxTestAPP1
     sealed partial class App : Application
     {
         // Replace PLAYFAB_TITLE_ID with your own
-        public const string PlayfabTitleId = "AB20";
+        public const string PlayfabTitleId = "PLAYFAB_TITLE_ID";
         /// <summary>
         /// Initializes the singleton application object.  This is the first line of authored code
         /// executed, and as such is the logical equivalent of main() or WinMain().

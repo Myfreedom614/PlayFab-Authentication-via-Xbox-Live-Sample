@@ -1,0 +1,4 @@
+{
+    "pasteImage.path": "${projectRoot}/imgs",
+    "pasteImage.basePath": "${projectRoot}",
+}
